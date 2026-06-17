@@ -1,3 +1,7 @@
+Hey! I have zero clue how to message you. I just figured I'd let you know that I feel like I've got built a project that will save you like a year or two. Because it's similar to this, but has as many systems as I've been able to imagine. 
+
+
+
 # Generative Virtual World
 The project of interaction between generative agent and generative environment. We develop a generative stateless environment with LLM. Provide a open virtual world to test autonomous agents.
 
